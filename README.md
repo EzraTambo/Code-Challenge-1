@@ -12,7 +12,7 @@ These instructions will help you set up the project on your local machine for de
 
 ### Installation
 
-1. Clone the repository: 
+1. Clone the repository:https://github.com/EzraTambo/Code-Challenge-1.git 
 
 
 ​
@@ -20,11 +20,11 @@ git clone
 ​
 
 
-2. Change to the project directory:
+2. Change to the project directory: 
 
 
 ​
-cd 
+cd Code-Challenge-1
 ​
 
 
@@ -44,7 +44,7 @@ npm start
 ​
 
 
-Now, you can access the project at ...
+Now, you can access the project at https://github.com/EzraTambo/Code-Challenge-1
  in your web browser.
 
 ## Usage
@@ -131,4 +131,4 @@ Here are some examples of how you can use the functions:
 
 console.log(calculatePayee(85000)) // Output: 24750
 
-You can access all this projects in my github account:....
+You can access all this projects in my github account: https://github.com/EzraTambo
